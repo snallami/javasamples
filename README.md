@@ -1,4 +1,5 @@
 javasamples
 ===========
 
-my java samples for tetsing purpose
+my java samples for testing purpose.
+
